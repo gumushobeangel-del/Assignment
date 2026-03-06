@@ -1,0 +1,29 @@
+body {
+  background-color: aquamarine;
+  font-size: 20px;
+  padding: 20px;
+  font-style: italic;
+}
+p {
+  width: 700px;
+  word-spacing: 15px;
+  padding: 10px;
+}
+h1 {
+  background-color: bisque;
+  text-shadow: 2px 2px yellowgreen;
+}
+h2 {
+  background-color: brown;
+  font-size: 30px;
+}
+h3 {
+  background-color: khaki;
+  font-size: 30px;
+}
+button {
+  background-color: brown;
+  color: blueviolet;
+  font-size: 20px;
+  cursor: pointer;
+}
